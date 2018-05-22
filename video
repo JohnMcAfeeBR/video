@@ -1,88 +1,120 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="BR: A&E HD" tvg-logo="http://www.lineup.tv.br/canais/ae.gif" group-title="Brasil",BR: A&E HD
-http://144.217.65.232:30000/BR1/aehd-br/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: A&E" tvg-logo="http://www.lineup.tv.br/canais/ae.gif" group-title="Brasil",BR: A&E
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: A&E HD" tvg-logo="http://www.lineup.tv.br/canais/aehd.gif" group-title="Brasil",BR: A&E HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/2.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: AMC HD" tvg-logo="http://www.lineup.tv.br/canais/amc.gif" group-title="Brasil",BR: AMC HD
-http://144.217.65.232:30000:80/Amc_BR/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Animal Planet" tvg-logo="http://www.lineup.tv.br/canais/animalplanet.gif" group-title="Brasil",BR: Animal Planet
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/4.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Animal Planet HD" tvg-logo="http://www.lineup.tv.br/canais/animalplanet.gif" group-title="Brasil",BR: Animal Planet HD
-http://144.217.65.232:30000/BR1/animalplanethd-br/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="BR: AXN HD" tvg-logo="http://www.lineup.tv.br/canais/axn.gif" group-title="Brasil",BR: AXN HD
-http://144.217.65.232:30000/BR1/axnhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Aparecida" tvg-logo="http://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Brasil",BR: Aparecida
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Aparecida HD" tvg-logo="http://www.lineup.tv.br/canais/tvaparecidahd.gif" group-title="Brasil",BR: Aparecida HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: arte1" tvg-logo="http://www.lineup.tv.br/canais/arte1.gif" group-title="Brasil",BR: Arte1
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: AXN" tvg-logo="http://www.lineup.tv.br/canais/axn.gif" group-title="Brasil",BR: AXN HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: AXN HD" tvg-logo="http://www.lineup.tv.br/canais/axnhd.gif" group-title="Brasil",BR: AXN HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/10.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Baby TV" tvg-logo="http://www.lineup.tv.br/canais/babytv.gif" group-title="Brasil",BR: Baby TV
-http://144.217.65.232:30000/BR1/babytv-br/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="BR: Band HD" tvg-logo="http://www.lineup.tv.br/canais/band.gif" group-title="Brasil",BR: Band HD
-http://144.217.65.232:30000/Band/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Band" tvg-logo="http://www.lineup.tv.br/canais/band.gif" group-title="Brasil",BR: Band
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Band HD" tvg-logo="http://www.lineup.tv.br/canais/bandhd.gif" group-title="Brasil",BR: Band HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/13.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Band News" tvg-logo="http://www.lineup.tv.br/canais/bandnews.gif" group-title="Brasil",BR: Band News
-http://144.217.65.232:30000/BR1/bandnews-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Band News HD" tvg-logo="http://www.lineup.tv.br/canais/bandnewshd.gif" group-title="Brasil",BR: Band News HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/15.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Band Sports" tvg-logo="http://www.lineup.tv.br/canais/bandsports.gif" group-title="Brasil",BR: Band Sports
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Band Sports HD" tvg-logo="http://www.lineup.tv.br/canais/bandsports.gif" group-title="Brasil",BR: Band Sports HD
 http://144.217.65.232:30000:80/BandSportsHD/mpegts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BIS" tvg-logo="http://www.lineup.tv.br/canais/bis.gif" group-title="Brasil",BR: BIS
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/22.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: BIS HD" tvg-logo="http://www.lineup.tv.br/canais/bis.gif" group-title="Brasil",BR: BIS HD
-http://144.217.65.232:30000/BR1/bishd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/23.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Boomerang" tvg-logo="http://www.lineup.tv.br/canais/boomerang.gif" group-title="Brasil",BR: Boomerang
-http://144.217.65.232:30000/BR1/boomerang-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Boomerang HD" tvg-logo="http://www.lineup.tv.br/canais/boomerang.gif" group-title="Brasil",BR: Boomerang HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/27.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Canal Brasil" tvg-logo="http://www.lineup.tv.br/canais/canalbrasil.gif" group-title="Brasil",BR: Canal Brasil
-http://144.217.65.232:30000/BR1/canalbrasilhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Canal do Boi" tvg-logo="http://www.harasvistaverde.com.br/blog/wp-content/uploads/2017/02/canal-do-boi.jpg" group-title="Brasil",BR: Canal do Boi
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Canal Rural" tvg-logo="http://www.lineup.tv.br/canais/canalrural.gif" group-title="Brasil",BR: Canal Rural
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Canção Nova" tvg-logo="http://www.lineup.tv.br/canais/cancaonova.gif" group-title="Brasil",BR: Canção Nova
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/33.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Canal Sony HD" tvg-logo="http://www.lineup.tv.br/canais/sony.gif" group-title="Brasil",BR: Canal Sony HD
-http://144.217.65.232:30000/BR1/canalsonyhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Cartoon Network" tvg-logo="http://www.lineup.tv.br/canais/cartoonnetwork.gif" group-title="Brasil",BR: Cartoon Network
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/34.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Cartoon Network HD" tvg-logo="http://www.lineup.tv.br/canais/cartoonnetwork.gif" group-title="Brasil",BR: Cartoon Network HD
-http://144.217.65.232:30000/BR1/cartoonnetwork-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Cinemax" tvg-logo="http://www.lineup.tv.br/canais/cinemax.gif" group-title="Brasil",BR: Cinemax
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/38.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Cinemax HD" tvg-logo="http://www.lineup.tv.br/canais/cinemax.gif" group-title="Brasil",BR: Cinemax HD
-http://144.217.65.232:30000/BR1/cinemaxhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/39.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Combate HD" tvg-logo="http://www.lineup.tv.br/canais/combate.gif" group-title="Brasil",BR: Combate HD
-http://144.217.65.232:30000:80/CombateH265Lr/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/45.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Comedy Central" tvg-logo="http://www.lineup.tv.br/canais/comedycentral.gif" group-title="Brasil",BR: Comedy Central
-http://144.217.65.232:30000/ComedyCentralBR/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Curta!" tvg-logo="http://www.lineup.tv.br/canais/curta.gif" group-title="Brasil",BR: Curta!
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/49.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Channel HD" tvg-logo="http://www.lineup.tv.br/canais/discovery.gif" group-title="Brasil",BR: Discovery Channel HD
-http://144.217.65.232:30000/BR1/discoverychannelhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/55.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Civilization" tvg-logo="http://www.lineup.tv.br/canais/discoverycivilization.gif" group-title="Brasil",BR: Discovery Civilization
-http://144.217.65.232:30000/BR1/discoverycivilization-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/52.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery H&H HD" tvg-logo="http://www.lineup.tv.br/canais/discoveryhomeandhealth.gif" group-title="Brasil",BR: Discovery H&H HD
-http://144.217.65.232:30000/BR1/dischomehealthhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/54.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Kids HD" tvg-logo="http://www.lineup.tv.br/canais/discoverykids.gif" group-title="Brasil",BR: Discovery Kids HD
-http://144.217.65.232:30000/BR1/discoverykidshd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/58.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Science" tvg-logo="http://www.lineup.tv.br/canais/discoveryscience.gif" group-title="Brasil",BR: Discovery Science
-http://144.217.65.232:30000/BR1/discoveryscience-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/61.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Theater HD" tvg-logo="http://www.lineup.tv.br/canais/discoverytheater.gif" group-title="Brasil",BR: Discovery Theater HD
-http://144.217.65.232:30000/BR1/3218-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/62.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Turbo HD" tvg-logo="http://www.lineup.tv.br/canais/discoveryturbo.gif" group-title="Brasil",BR: Discovery Turbo HD
-http://144.217.65.232:30000/BR1/discoveryturbohd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery World HD" tvg-logo="http://www.lineup.tv.br/canais/discoveryturbo.gif" group-title="Brasil",BR: Discovery World HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/65.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Disney Channel HD" tvg-logo="http://www.lineup.tv.br/canais/disney.gif" group-title="Brasil",BR: Disney Channel HD
-http://144.217.65.232:30000/BR1/disneychannelhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/67.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Disney Junior" tvg-logo="http://www.lineup.tv.br/canais/disneyjunior.gif" group-title="Brasil",BR: Disney Junior
-http://144.217.65.232:30000/BR1/disneyjunior-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/68.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Disney XD" tvg-logo="http://www.lineup.tv.br/canais/disneyxd.gif" group-title="Brasil",BR: Disney XD
-http://144.217.65.232:30000/BR1/disneyxd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/69.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: E! HD" tvg-logo="http://www.lineup.tv.br/canais/e.gif" group-title="Brasil",BR: E! HD
-http://144.217.65.232:30000/BR1/ehd-br/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="BR: EI Maxx 2 HD" tvg-logo="http://www.lineup.tv.br/canais/esporteinterativo2.gif" group-title="Brasil",BR: EI Maxx 2 HD
-http://144.217.65.232:30000/BR1/emaxx2HD-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/71.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: EI Maxx HD" tvg-logo="http://www.lineup.tv.br/canais/esporteinterativo.gif" group-title="Brasil",BR: EI Maxx HD
-http://144.217.65.232:30000/BR1/emaxxHD-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: EI Maxx 2 HD" tvg-logo="http://www.lineup.tv.br/canais/esporteinterativo2.gif" group-title="Brasil",BR: EI Maxx 2 HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/76.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN" tvg-logo="http://www.lineup.tv.br/canais/espn.gif" group-title="Brasil",BR: ESPN
-http://144.217.65.232:30000/BR1/espnhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/83.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN Brasil" tvg-logo="http://www.lineup.tv.br/canais/espnbrasil.gif" group-title="Brasil",BR: ESPN Brasil
-http://144.217.65.232:30000:80/EspnBrasilH265/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/79.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN Brasil" tvg-logo="http://www.lineup.tv.br/canais/espnmais.gif" group-title="Brasil",BR: ESPN +
-http://144.217.65.232:30000/BR1/espnplushd-br/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="BR: Esporte Interativo" tvg-logo="http://www.lineup.tv.br/canais/esporteinterativo.gif" group-title="Brasil",BR: Esporte Interativo
-http://144.217.65.232:30000/BR1/3247-br/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="BR: Esporte Interativo 2" tvg-logo="http://www.lineup.tv.br/canais/esporteinterativo2.gif" group-title="Brasil",BR: Esporte Interativo 2
-http://144.217.65.232:30000/EIBR/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/81.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: FISH TV" tvg-logo="http://www.lineup.tv.br/canais/fishtv.gif" group-title="Brasil",BR: FISH TV
-http://144.217.65.232:30000/BR1/fishtv-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/84.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Food Network HD" tvg-logo="http://www.lineup.tv.br/canais/food.gif" group-title="Brasil",BR: Food Network HD
-http://144.217.65.232:30000/BR1/foodnetworkhd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/86.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Fox HD" tvg-logo="http://www.lineup.tv.br/canais/fox.gif" group-title="Brasil",BR: Fox HD
-http://144.217.65.232:30000/BR1/3216-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/88.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Life" tvg-logo="https://cdn.reweb.io/hagah/image/usJnZiuY2WVdgUGxePG8q6xfwyI=/300x300/top/smart/hagah/f/fa/fox-life-fad297de.jpg" group-title="Brasil",BR: Fox Life
-http://144.217.65.232:30000/BR1/3229-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/90.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Premium 1 HD" tvg-logo="http://www.lineup.tv.br/canais/foxpremium1.gif" group-title="Brasil",BR: Fox Premium 1 HD
-http://144.217.65.232:30000/BR1/3228-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/91.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Premium 2 HD" tvg-logo="http://www.lineup.tv.br/canais/foxpremium2.gif" group-title="Brasil",BR: Fox Premium 2 HD
-http://144.217.65.232:30000:80/BR1/3240-br/mpegts
-#EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Sports 2 HD" tvg-logo="http://www.lineup.tv.br/canais/foxsports2.gif" group-title="Brasil",BR: Fox Sports 2 HD
-http://144.217.65.232:30000/BR1/foxsports2hd-br/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/92.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Sports HD" tvg-logo="http://www.lineup.tv.br/canais/foxsports.gif" group-title="Brasil",BR: Fox Sports HD
-http://144.217.65.232:30000:80/FoxSportsH265/mpegts
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Sports 2 HD" tvg-logo="http://www.lineup.tv.br/canais/foxsports2.gif" group-title="Brasil",BR: Fox Sports 2 HD
+http://iptv.vodseries.info:24621/live/mUSzgCxsXX/L2mOLzlNEs/95.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Futura" tvg-logo="http://www.lineup.tv.br/canais/futura.gif" group-title="Brasil",BR: Futura
 http://144.217.65.232:30000/BR1/futura-br/mpegts
 #EXTINF:-1 tvg-ID="" tvg-name="BR: FX HD" tvg-logo="http://www.lineup.tv.br/canais/fx.gif" group-title="Brasil",BR: FX HD
